@@ -3,7 +3,7 @@ package jw.io.mvcdemo.model;
 public class Transaction {
     private String id;
     private String customerFirstName;
-    private String getCustomerLastName;
+    private String customerLastName;
     private String merchantName;
     private PaymentMethod paymentMethod;
 
@@ -23,12 +23,12 @@ public class Transaction {
         this.customerFirstName = customerFirstName;
     }
 
-    public String getGetCustomerLastName() {
-        return getCustomerLastName;
+    public String getCustomerLastName() {
+        return customerLastName;
     }
 
-    public void setGetCustomerLastName(String getCustomerLastName) {
-        this.getCustomerLastName = getCustomerLastName;
+    public void setCustomerLastName(String customerLastName) {
+        this.customerLastName = customerLastName;
     }
 
     public String getMerchantName() {

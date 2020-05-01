@@ -1,0 +1,27 @@
+[{
+    "id": "5eabb37851be1fa37313f983",
+    "customerFirstName": "Hanson",
+    "customerLastName": "Bryan",
+    "merchantName": "voluptate",
+    "paymentMethod": {
+      "cardScheme": "VISA",
+      "cardNumber": 4539466317346687,
+      "issuer": "HSBC",
+      "transactionDateTime": "2020-01-16T18:53:05.126Z",
+      "amount": 1289.34
+    }
+  },
+  {
+    "id": "5eabb378f3bdaf1ddbee9d6f",
+    "customerFirstName": "Isabella",
+    "customerLastName": "Burke",
+    "merchantName": "dolor",
+    "paymentMethod": {
+      "cardScheme": "VISA",
+      "cardNumber": 4539466317341837,
+      "issuer": "Citi",
+      "transactionDateTime": "2020-04-27T11:26:01.119Z",
+      "amount": 250.56
+    }
+  }
+]
