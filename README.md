@@ -6,6 +6,10 @@ The following was discovered as part of building this project:
 
 * The original package name 'jw.io.mvc-demo' is invalid and this project uses 'jw.io.mvcdemo' instead.
 
+# Simple Login flow
+
+![login flow](https://raw.githubusercontent.com/99887710/mvc-demo/master/login.gif)
+
 # Getting Started
 
 ### Reference Documentation
